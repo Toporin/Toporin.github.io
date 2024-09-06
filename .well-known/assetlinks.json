@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "org.satochip.seedkeeper",
+    "sha256_cert_fingerprints":
+    ["AD:C7:10:F4:7D:AB:F6:53:D2:61:82:5C:50:6E:66:87:F9:20:C6:A4:F2:90:FD:53:71:23:B5:6A:A2:BD:92:3D"]
+  }
+}]
