@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": ["X3VXRB9R74.io.satochip.app.Seedkeeper", "F75Z9LY9DQ.io.satochip.app.Seedkeeper"],
+             "components": [
+               {
+                  "/": "/ndef-seedkeeper.html",
+                  "comment": "Matches any URL with a path that starts with /buy/."
+               },
+             ]
+           }
+       ]
+   },
+}
